@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newz_Blitz</string>
+    <string name="floating_action_button">Floating Action Button</string>
+    <string name="search_news">Search News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="breaking_news">Breaking News</string>
+</resources>
