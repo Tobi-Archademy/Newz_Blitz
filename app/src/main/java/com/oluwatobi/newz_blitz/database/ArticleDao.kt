@@ -6,7 +6,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.oluwatobi.newz_blitz.Article
+import com.oluwatobi.newz_blitz.models.Article
 
 @Dao
 interface ArticleDao {

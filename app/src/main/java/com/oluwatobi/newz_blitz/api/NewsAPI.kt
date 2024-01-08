@@ -1,6 +1,6 @@
 package com.oluwatobi.newz_blitz.api
 
-import com.oluwatobi.newz_blitz.NewsResponse
+import com.oluwatobi.newz_blitz.models.NewsResponse
 import com.oluwatobi.newz_blitz.util.Constants.API_KEY
 import retrofit2.Response
 import retrofit2.http.GET

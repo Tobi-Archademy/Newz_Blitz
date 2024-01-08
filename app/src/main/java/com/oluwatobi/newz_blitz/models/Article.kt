@@ -1,4 +1,4 @@
-package com.oluwatobi.newz_blitz
+package com.oluwatobi.newz_blitz.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey
