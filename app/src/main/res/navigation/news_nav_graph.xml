@@ -6,11 +6,11 @@
 
     <fragment
         android:id="@+id/articleFragment"
-        android:name="com.androiddevs.mvvmnewsapp.ui.fragments.ArticleFragment"
+        android:name="com.oluwatobi.newz_blitz.ui.fragments.ArticleFragment"
         android:label="ArticleFragment" />
     <fragment
         android:id="@+id/breakingNewsFragment"
-        android:name="com.androiddevs.mvvmnewsapp.ui.fragments.BreakingNewsFragment"
+        android:name="com.oluwatobi.newz_blitz.ui.fragments.BreakingNewsFragment"
         android:label="BreakingNewsFragment" >
         <action
             android:id="@+id/action_breakingNewsFragment_to_articleFragment"
@@ -22,7 +22,7 @@
     </fragment>
     <fragment
         android:id="@+id/savedNewsFragment"
-        android:name="com.androiddevs.mvvmnewsapp.ui.fragments.SavedNewsFragment"
+        android:name="com.oluwatobi.newz_blitz.ui.fragments.SavedNewsFragment"
         android:label="SavedNewsFragment" >
         <action
             android:id="@+id/action_savedNewsFragment_to_articleFragment"
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/searchNewsFragment"
-        android:name="com.androiddevs.mvvmnewsapp.ui.fragments.SearchNewsFragment"
+        android:name="com.oluwatobi.newz_blitz.ui.fragments.SearchNewsFragment"
         android:label="SearchNewsFragment" >
         <action
             android:id="@+id/action_searchNewsFragment_to_articleFragment"
